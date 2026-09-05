@@ -1,0 +1,49 @@
+{
+  "name": "My Mommy",
+  "description": "Tema Da Mommy.",
+  "authors": [
+    {
+      "name": "Vzm"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#121212cc"],
+    "BACKGROUND_SECONDARY": ["#1a1a1acc"],
+    "BACKGROUND_SECONDARY_ALT": ["#1a1a1acc"],
+    "BACKGROUND_TERTIARY": ["#0f0f0fcc"],
+    "BACKGROUND_ACCENT": ["#1e1e1ecc"],
+    "BACKGROUND_FLOATING": ["#1a1a1acc"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#121212cc"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#1a1a1acc"],
+    "BACKGROUND_NESTED_FLOATING": ["#1a1a1acc"],
+    "CHAT_BACKGROUND": ["#12121299"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#1e1e1ecc"],
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#d0d0d0"],
+    "TEXT_NORMAL": ["#f0f0f0"],
+    "TEXT_MUTED": ["#b0b0b0"],
+    "TEXT_LINK": ["#7aa2f7"],
+    "INTERACTIVE_NORMAL": ["#c0c0c0"],
+    "INTERACTIVE_HOVER": ["#ffffff"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
+    "INTERACTIVE_MUTED": ["#808080"],
+    "CHANNELS_DEFAULT": ["#c0c0c0"],
+    "CHANNEL_ICON": ["#c0c0c0"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#1a1a1a",
+    "PRIMARY_630": "#121212",
+    "PRIMARY_660": "#0f0f0f",
+    "PRIMARY_700": "#0a0a0a",
+    "BRAND_500": "#7aa2f7"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/pppzxvppsy/Theme-1/refs/heads/main/IMG_20260905_190024.jpg",
+    "blur": 14,
+    "alpha": 0.68
+  },
+  "plus": {
+    "version": 0
+  }
+}
