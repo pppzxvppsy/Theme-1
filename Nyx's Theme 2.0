@@ -1,0 +1,49 @@
+{
+  "name": "Nyx's Theme 2.0",
+  "description": "Nyx's Theme With Vanta Black and Neon Colors.",
+  "authors": [
+    {
+      "name": "Nyx"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#050505cc"],
+    "BACKGROUND_SECONDARY": ["#110000cc"],
+    "BACKGROUND_SECONDARY_ALT": ["#1a0000cc"],
+    "BACKGROUND_TERTIARY": ["#050505f2"],
+    "BACKGROUND_ACCENT": ["#FF1493"],
+    "BACKGROUND_FLOATING": ["#050505e6"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#050505cc"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#110000cc"],
+    "BACKGROUND_NESTED_FLOATING": ["#050505e6"],
+    "CHAT_BACKGROUND": ["#05050599"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#1a0000cc"],
+    "HEADER_PRIMARY": ["#FFFFFF"],
+    "HEADER_SECONDARY": ["#FF1493"],
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_MUTED": ["#d0d0d0"],
+    "TEXT_LINK": ["#FF1493"],
+    "INTERACTIVE_NORMAL": ["#FFFFFF"],
+    "INTERACTIVE_HOVER": ["#FF1493"],
+    "INTERACTIVE_ACTIVE": ["#8B0000"],
+    "INTERACTIVE_MUTED": ["#404040"],
+    "CHANNELS_DEFAULT": ["#FFFFFF"],
+    "CHANNEL_ICON": ["#FF1493"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#110000",
+    "PRIMARY_630": "#050505",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "BRAND_500": "#FF1493"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/pppzxvppsy/Theme-1/refs/heads/main/IMG_20260908_171812.jpg",
+    "blur": 0,
+    "alpha": 1.0
+  },
+  "plus": {
+    "version": 0
+  }
+}
